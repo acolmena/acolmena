@@ -4,7 +4,7 @@
 - 🎓 I study **Computer Science with a concentration in AI** at **Stanford University**</br>
 - 🔭 I’m passionate about intersections between artificial intelligence and ancestral intelligence and finding ways to use technology to enable indigenous communities in South America to continue to steward and protect their lands and sacred plants.</br>
 - 🌱 I’m currently learning **Machine Learning and Deep Learning** (through Stanford's CS229 and CS230 courses, respectively)</br>   
-- 💬 Ask me about sacred plants from the Peruvian Amazon and the Orinoco region of Venezuela</br>
+- 💬 Ask me about sacred plants from the Peruvian Amazon and/or the Orinoco region of Venezuela</br>
 - ⚡ Fun fact: my childhood nickname was **ana**conda casca**belle**, which is very fitting because I love animals.</br>
 - 😄 Pronouns: they/she</br>
 
