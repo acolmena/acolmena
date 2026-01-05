@@ -5,7 +5,6 @@
 - 🔭 I’m particulary passionate about finding ways to use technology to support the efforts of South American Indigenous communities in preserving their languages, lands, and sacred plants.</br>
 - 🌱 I’m currently learning **Machine Learning and Deep Learning** (through Stanford's CS229 and CS230 courses, respectively)</br>   
 - 💬 Ask me about sacred plants from the Peruvian Amazon and/or the Orinoco region of Venezuela</br>
-- ⚡ Fun fact: my childhood nickname was **ana**conda casca**belle**, which is very fitting because I love animals.</br>
 - 😄 Pronouns: they/she</br>
 
 
